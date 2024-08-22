@@ -11,3 +11,6 @@ acoountCity = "jalandhar"
 
 console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, acoountCity])
+/*Prefer not to use var
+because of issue in blovk scope and fumctional scope 
+*/
