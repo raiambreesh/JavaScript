@@ -33,3 +33,6 @@ console.log(arr);
 var arr = [1,2,4,5,6,6,]
 arr.splice(2,3);
 console.log(arr);
+
+
+console.log(typeof NaN);

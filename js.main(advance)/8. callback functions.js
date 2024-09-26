@@ -1,0 +1,3 @@
+// callback functions
+// jb bhi koi aisa code jo baad me chlta hai aap likhoge , kuki wo code baad me chlta hai js ko wo cmplt hua ya ni, aise code k completion par js ko btaya jata hai ki wo complete hogya or aap use chala skte ho , ye btane ka kaam callback ka hai  
+// aisa code jo baad me chlta h use hum ek function de dete hai , jb bhi complete ho jai to function chla dena , or wo function normal function hi hota hai or use khte hai callback function 

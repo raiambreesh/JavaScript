@@ -1,0 +1,1 @@
+// lexical environment hota hai ek chart jisme ye likha hota h ki apka perticular function kis chizo ko access kr skta hai and kinko ni, mtlb ki it holds it's scope and scope change  
